@@ -1,2 +1,2 @@
 # carbon-exchange
-template for the carbon exchange company
+laravel template for the carbon exchange company
